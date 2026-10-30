@@ -30,22 +30,25 @@
   <img src="https://skillicons.dev/icons?i=html,mysql,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-📊 GitHub Statistics
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmgmadhuwantha52&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmgmadhuwantha52&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dmgmadhuwantha52&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=dmgmadhuwantha52&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmgmadhuwantha52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 🏆 GitHub Achievements
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dmgmadhuwantha52&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://trophygithubreadmelang.cybee.dpdns.org/?username=dmgmadhuwantha52&theme=tokyonight&utm_source=chatgpt.comusername=dmgmadhuwantha52&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 🌐 Connect With Me
 
