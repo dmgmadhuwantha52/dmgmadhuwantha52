@@ -1,18 +1,64 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Gayan Madhuwantha</h1>
-<h3 align="center">Code. Design. Create.</h3>
+👋 Hi, I'm Gayan Madhuwantha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmgmadhuwantha52&label=Profile%20views&color=0e75b6&style=flat" alt="dmgmadhuwantha52" /> </p>
+💻 Code. Design. Create.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmgmadhuwantha52" alt="dmgmadhuwantha52" /></a> </p>
-
-- 📫 How to reach me **dmgmadhuwantha52@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gayan-madhuwantha-109123444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayan-madhuwantha-109123444" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=ICT+Student;Aspiring+Web+Developer;Technology+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmgmadhuwantha52&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
+🚀 About Me
+
+🎓 ICT Student passionate about technology.
+
+💻 Interested in web development and programming.
+
+🌱 Currently improving my technical and coding skills.
+
+🎯 Focused on learning, building, and creating.
+
+🤝 Open to collaboration and new opportunities.
+
+📧 Email: dmgmadhuwantha52@gmail.com
+
+🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,mysql,github,vscode&theme=dark" alt="Tech Stack" />
+</p>
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmgmadhuwantha52&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmgmadhuwantha52&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmgmadhuwantha52&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dmgmadhuwantha52&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/gayan-madhuwantha-109123444">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dmgmadhuwantha52@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  ### ✨ Technology solves complex problems.
+  <i>Thanks for visiting my profile! Keep learning and keep building. 🚀</i>
+</p>
